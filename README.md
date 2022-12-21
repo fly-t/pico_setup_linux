@@ -1,2 +1,1 @@
-# pico_setup_linux
-pico set up on arch linux and config picoprobe for debug, flash, as serial port....
+/home/dd21/Projects/github/pico/README.md
